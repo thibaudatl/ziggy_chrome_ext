@@ -5,7 +5,10 @@
 ## We do not use any form of private user data.
 ## We do not sell any user data.
 
-# How it works
+# Where is the magic?
 
-Ziggy allows you to replace the images on your webpage by images from ziggy. Visiting any website become cuter and more apropriate.
+Ziggy is everywhere allows you to display ziggy's face everywhere you go. 
 
+Are you sick of seeing all these random shocking images on the internet when browsing? Ziggy is everywhere is tailorded dev for you. You won't have to stand them anymore! They'll be change into Ziggys and your life will be full of rainbows!
+
+Made by <3 by ZiggyAddict
