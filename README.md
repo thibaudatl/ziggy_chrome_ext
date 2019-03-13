@@ -7,5 +7,5 @@
 
 # How it works
 
-Ziggy allow you to replace the images on your webpage by images from ziggy. Visiting any website become cuter and more apropriate.
+Ziggy allows you to replace the images on your webpage by images from ziggy. Visiting any website become cuter and more apropriate.
 
